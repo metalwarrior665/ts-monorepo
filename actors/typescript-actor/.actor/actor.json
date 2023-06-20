@@ -7,5 +7,6 @@
     "dockerContextDir": "../../..",
     "input": "../../../shared/input_schema.json",
     "readme": "./README.md",
-    "dockerfile": "./Dockerfile"
+    "dockerfile": "./Dockerfile",
+    "changelog": "../../../CHANGELOG.md"
 }
