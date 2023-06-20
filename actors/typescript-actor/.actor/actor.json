@@ -8,5 +8,5 @@
     "input": "../../../shared/input_schema.json",
     "readme": "./README.md",
     "dockerfile": "./Dockerfile",
-    "changelog": "../../../CHANGELOG.md"
+    "changelog": "../../../shared/CHANGELOG.md"
 }
